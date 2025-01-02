@@ -1,0 +1,100 @@
+at, A preposition indicating a location
+be, To exist
+do, To perform an action
+go, To move from one place to another
+he, A male person
+in, Inside a place
+is, Third person singular of 'be'
+it, Refers to a thing
+me, Refers to oneself
+my, Possessive form of 'I'
+no, A negative answer
+on, Positioned above something
+or, A choice between options
+up, Towards a higher place
+we, Refers to a group including oneself
+so, To a great extent
+to, Indicates direction
+of, Expressing the relationship between parts
+us, Refers to oneself and another
+if, A condition
+cat, A small domesticated animal
+dog, A common pet animal
+boy, A male child
+sun, The star that gives us light
+bat, A flying mammal
+hat, Something you wear on your head
+pig, A farm animal that oinks
+cow, A large farm animal that gives milk
+bee, An insect that makes honey
+car, A vehicle for driving
+cup, Something you drink from
+box, A container with four sides
+bag, Something to carry things in
+pen, An object for writing
+egg, What chickens lay
+toy, Something children play with
+book, A set of written pages
+key, Used to open locks
+bed, Where you sleep
+jar, A container with a lid
+fox, A small wild animal with a bushy tail
+man, An adult male person
+rat, A small rodent
+leg, A part of the body used for walking
+lip, Part of the mouth
+map, A representation of an area
+owl, A bird that is active at night
+rib, Part of the body protecting organs
+rug, A floor covering
+fly, An insect that buzzes
+jam, A sweet spread made from fruit
+tree, A tall plant with a trunk
+frog, A green jumping animal
+lion, The king of the jungle
+bird, An animal that can fly
+star, A shining object in the night sky
+milk, A white drink from cows
+rain, Water falling from clouds
+snow, Frozen precipitation
+cake, A sweet baked dessert
+girl, A female child
+duck, A water bird that quacks
+shoe, Something you wear on your feet
+moon, The Earth's natural satellite
+ball, A round object used in games
+boat, A vehicle for water
+bear, A large furry animal
+leaf, Part of a plant
+lamp, A source of light
+door, Something you open to enter
+ship, A large boat
+kite, A toy that flies in the wind
+apple, A sweet fruit
+house, A place where people live
+chair, Something you sit on
+train, A vehicle that runs on tracks
+horse, A large farm animal
+clock, An object that tells time
+green, A color of grass
+bread, A baked food made from flour
+smile, A happy facial expression
+table, A piece of furniture with a flat top
+light, Something that makes things visible
+grass, Green plants growing from the ground
+music, Sounds arranged in a pleasant way
+world, The Earth and everything on it
+beach, A sandy area by the sea
+fruit, The sweet part of a plant
+pizza, A popular food with cheese and toppings
+river, A large natural stream of water
+cloud, Water vapor in the sky
+heart, An organ that pumps blood
+sleep, To rest your body
+sugar, A sweet substance
+watch, A device to tell time
+zebra, A black and white striped animal
+tower, A tall structure
+plant, A living organism that grows
+water, Something we drink
+chair, Something we sit on
