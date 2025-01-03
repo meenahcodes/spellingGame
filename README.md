@@ -1,5 +1,5 @@
 # spellingGame
-A terminal-based spelling application that help children improve their spelling abilities. Adapted from the classic hangman game
+A terminal-based spelling application that help children improve their spelling abilities. Adapted from the classic hangman game.
 
 At the start of the game, the player is provided with an interactive user interface where the player is prompted to choose a word category of their choice. 
 
