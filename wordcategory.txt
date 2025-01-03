@@ -1,0 +1,104 @@
+Basic Words,at,A preposition indicating a location
+Basic Words,be,To exist
+Basic Words,do,To perform an action
+Basic Words,go,To move from one place to another
+Basic Words,he,A male person
+Basic Words,in,Inside a place
+Basic Words,is,Third person singular of 'be'
+Basic Words,it,Refers to a thing
+Basic Words,me,Refers to oneself
+Basic Words,my,Possessive form of 'I'
+Basic Words,no,A negative answer
+Basic Words,on,Positioned above something
+Basic Words,or,A choice between options
+Basic Words,up,Towards a higher place
+Basic Words,we,Refers to a group including oneself
+Basic Words,so,To a great extent
+Basic Words,to,Indicates direction
+Basic Words,of,Expressing the relationship between parts
+Basic Words,us,Refers to oneself and another
+Basic Words,if,A condition
+Animals,cat,A small domesticated animal
+Animals,dog,A common pet animal
+Animals,boy,A male child
+Animals,sun,The star that gives us light
+Animals,bat,A flying mammal
+Animals,hat,Something you wear on your head
+Animals,pig,A farm animal that oinks
+Animals,cow,A large farm animal that gives milk
+Animals,bee,An insect that makes honey
+Animals,fox,A small wild animal with a bushy tail
+Animals,rat,A small rodent
+Animals,owl,A bird that is active at night
+Animals,frog,A green jumping animal
+Animals,lion,The king of the jungle
+Animals,bird,An animal that can fly
+Animals,duck,A water bird that quacks
+Animals,bear,A large furry animal
+Animals,zebra,A black and white striped animal
+Animals,horse,A large farm animal
+Food,egg,What chickens lay
+Food,jam,A sweet spread made from fruit
+Food,cake,A sweet baked dessert
+Food,bread,A baked food made from flour
+Food,pizza,A popular food with cheese and toppings
+Food,sugar,A sweet substance
+Food,milk,A white drink from cows
+Body Parts,leg,A part of the body used for walking
+Body Parts,lip,Part of the mouth
+Body Parts,rib,Part of the body protecting organs
+Body Parts,heart,An organ that pumps blood
+Transportation,car,A vehicle for driving
+Transportation,boat,A vehicle for water
+Transportation,ship,A large boat
+Transportation,train,A vehicle that runs on tracks
+Transportation,boat,A vehicle for water
+Transportation,ship,A large boat
+Transportation,train,A vehicle that runs on tracks
+Furniture,chair,Something you sit on
+Furniture,bed,Where you sleep
+Furniture,table,A piece of furniture with a flat top
+Furniture,lamp,A source of light
+Furniture,rug,A floor covering
+Nature,tree,A tall plant with a trunk
+Nature,sun,The star that gives us light
+Nature,moon,The Earth's natural satellite
+Nature,star,A shining object in the night sky
+Nature,rain,Water falling from clouds
+Nature,snow,Frozen precipitation
+Nature,cloud,Water vapor in the sky
+Nature,river,A large natural stream of water
+Nature,leaf,Part of a plant
+Nature,grass,Green plants growing from the ground
+Nature,plant,A living organism that grows
+Objects,hat,Something you wear on your head
+Objects,cup,Something you drink from
+Objects,box,A container with four sides
+Objects,bag,Something to carry things in
+Objects,pen,An object for writing
+Objects,toy,Something children play with
+Objects,book,A set of written pages
+Objects,key,Used to open locks
+Objects,map,A representation of an area
+Objects,rug,A floor covering
+Objects,jam,A sweet spread made from fruit
+Objects,milk,A white drink from cows
+Objects,shoe,Something you wear on your feet
+Objects,ball,A round object used in games
+Objects,jar,A container with a lid
+Objects,kite,A toy that flies in the wind
+Objects,apple,A sweet fruit
+Objects,watch,A device to tell time
+Objects,tower,A tall structure
+Objects,door,Something you open to enter
+Objects,clock,An object that tells time
+Objects,lamp,A source of light
+Objects,chair,Something you sit on
+Others,smile,A happy facial expression
+Others,music,Sounds arranged in a pleasant way
+Others,world,The Earth and everything on it
+Others,beach,A sandy area by the sea
+Others,fruit,The sweet part of a plant
+Others,plant,A living organism that grows
+Others,water,Something we drink
+Others,light,Something that makes things visible
